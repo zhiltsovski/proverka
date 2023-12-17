@@ -514,7 +514,7 @@ header {
 
 .footer-content-top {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     flex-wrap: wrap;
     margin-bottom: 4px;
 }
